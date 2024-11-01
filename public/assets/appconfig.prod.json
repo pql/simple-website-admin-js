@@ -1,0 +1,6 @@
+{
+  "remoteServiceBaseUrl": "http://waveapi.dev.firebytes.com.sg",
+  "authorityServiceBaseUrl": "http://waveauth.dev.firebytes.com.sg",
+  "avueUrl": "http://avue.dev.firebytes.com.sg",
+  "avueOidcClientId": "Unified_Avue"
+}
